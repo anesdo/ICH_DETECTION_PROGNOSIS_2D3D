@@ -1,0 +1,10 @@
+In this repository, we included 4 Jupyter notebooks, designed in an easy-to-use way, to facilitate investigation in deep learning with medical images. 
+
+ICH_DETECTION folder includes the code (.ipynb) for the training, validation, and testing of a deep learning model that classificates CT 2D images into the absence and the presence of ICH. It includes also the possibility of training a model with a hybrid input (2D images and tabular data). 
+
+ICH_PROGNOSIS folder includes the code (.ipynb) to train, validate and test a deep learning model that classificates head-CT 3D images according to the prognosis. It includes also the possibility of training a model with a hybrid input (3D images and tabular data). We also include a video explaining how to use our notebooks, and in which we train an example model of ICH prognosis. 
+
+IMAGE_PREPROCESSING_2D_3D folder includes a notebook (.ipynb) to perform the preprocessing of both 2D and 3D CT images, a  recommendable preprocessing to perform before introducing images to the deep learning models. It also included a text document (.pdf) with explainations of the steps of the preprocessing for CT images. 
+
+MODEL ANALYSIS folder includes the code (.ipynb) to perform the Delong test, a test to statistically compare two different classification models. 
+
