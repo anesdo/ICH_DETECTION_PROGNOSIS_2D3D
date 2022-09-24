@@ -1,4 +1,4 @@
-In this repository, we included 4 Jupyter notebooks, designed in an easy-to-use way, to facilitate investigation in deep learning with medical images. 
+In this repository, we include 4 Jupyter notebooks, specially designed to be user-friendly, with the ultimate goal of facilitating deep learning research in the medical field.
 
 ICH_DETECTION folder includes the code (.ipynb) for the training, validation, and testing of a deep learning model that classificates CT 2D images into the absence and the presence of ICH. It includes also the possibility of training a model with a hybrid input (2D images and tabular data). 
 
